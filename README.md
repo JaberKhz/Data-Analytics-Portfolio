@@ -13,5 +13,4 @@ Welcome to my professional portfolio! I am a **Data Analyst** with expertise in 
 
 
 ## 📬 Let's Connect
-* **LinkedIn:** [ضع رابط حسابك هنا]
-* **Email:** [ضع إيميلك هنا]
+* **Email:** jkhuzendar@gmail.com
